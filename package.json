@@ -1,0 +1,27 @@
+{
+  "name": "apidoc-template",
+  "description": "Template for apidocjs",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=14"
+  },
+  "author": "Ahmed Dinar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmed-dinar/apidoc-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ahmed-dinar/apidoc-template/issues"
+  },
+  "homepage": "https://ahmed-dinar.github.io/apidoc-template/",
+  "keywords": [
+    "apidocjs",
+    "apidoc",
+    "theme",
+    "template"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
